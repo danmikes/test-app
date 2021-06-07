@@ -1,6 +1,13 @@
 {
   "short_name": "Test App",
   "name": "Test App",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16",
+      "type": "image/gif"
+    }
+  ],
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
