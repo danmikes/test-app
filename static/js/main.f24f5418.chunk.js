@@ -1,2 +1,0 @@
-(this["webpackJsonptest-app"]=this["webpackJsonptest-app"]||[]).push([[0],{11:function(e,t,s){"use strict";s.r(t);var c=s(1),n=s.n(c),i=s(3),p=s.n(i),r=(s(8),s(9),s(0));var l=function(){return Object(r.jsxs)("div",{className:"App",children:[Object(r.jsx)("h1",{children:"This is my test app"}),Object(r.jsx)("p",{children:"Here I will develop my fullstack-skills"})]})};p.a.render(Object(r.jsx)(n.a.StrictMode,{children:Object(r.jsx)(l,{})}),document.getElementById("root"))},8:function(e,t,s){},9:function(e,t,s){}},[[11,1,2]]]);
-//# sourceMappingURL=main.f24f5418.chunk.js.map
